@@ -1,0 +1,15 @@
+.bi{
+    position: absolute;
+    right: 5%;
+font-size: 40px;
+}
+.ContadorCarrito{
+    color: aliceblue;
+    position: absolute;
+    right: 4%;
+    bottom: 5px;
+    background-color: rgb(106, 33, 33);
+    width: 20px;
+    border-radius: 50%;
+    
+}
